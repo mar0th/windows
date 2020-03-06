@@ -101,6 +101,6 @@ make -j8
 # Dependencies
 
 *  [OpenCV](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.3/)
-*  [Dlib](http://dlib.net)
+*  [Dlib](http://dlib.net) (has to be placed in the /Software/FaceDetection/ folder and needs this fix: https://github.com/davisking/dlib/issues/1949#issuecomment-567924886)
 *  [OpenGL](https://www.opengl.org)
 
